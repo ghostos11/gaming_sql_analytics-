@@ -1,0 +1,25 @@
+player_id,team_id,gamertag,real_name,role,country
+1,1,Nova,Alex Carter,Duelist,US
+2,1,Vex,Daniel Brooks,Controller,US
+3,2,Frost,Lukas Weber,Duelist,DE
+4,2,Kiro,Jonas Klein,Initiator,DE
+5,3,Shadow,Ethan Wilson,Controller,CA
+6,3,Raze,Noah Martin,Duelist,CA
+7,4,Ace,Ryan Mitchell,Duelist,US
+8,4,Ghost,Kevin Moore,Sentinel,US
+9,5,Zen,Min-Jun Park,Duelist,KR
+10,5,Pulse,Ji-Hoon Kim,Initiator,KR
+11,6,Blade,Oliver Smith,Duelist,GB
+12,6,Nox,Harry Evans,Controller,GB
+13,7,Storm,Andriy Kovalenko,Duelist,UA
+14,7,Flash,Maksym Bondar,Initiator,UA
+15,8,Orbit,Lucas Silva,Duelist,BR
+16,8,Venom,Gabriel Costa,Controller,BR
+17,9,Titan,Michael Johnson,Duelist,US
+18,9,Echo,Chris Adams,Sentinel,US
+19,10,Wolf,Pedro Santos,Duelist,BR
+20,10,Blaze,Rafael Lima,Initiator,BR
+21,11,Reaper,Kim Min-Soo,Duelist,KR
+22,11,Arrow,Lee Joon-Ho,Sentinel,KR
+23,12,King,Antoine Dubois,Duelist,FR
+24,12,Drift,Lucas Bernard,Controller,FR
