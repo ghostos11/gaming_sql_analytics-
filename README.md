@@ -20,9 +20,10 @@ A SQL project focused on analyzing competitive gaming data.
 
 The database will contain information about:
 
-- Players
-- Teams
-- Games
+- Teams 
+- Pro_Players
+- Tournaments 
 - Matches
-- Tournaments
-- Player performance
+- rosters
+- Sponsors
+- Team_Sponsors 
