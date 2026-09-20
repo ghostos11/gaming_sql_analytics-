@@ -1,7 +1,7 @@
-tournament_id;title;game_title;location;prize_pool;start_date;end_date
-1;Global Masters 2025;Valorant;Los Angeles;1000000.00;10/02/2025;25/02/2025
-2;World Esports Cup 2025;CS2;Berlin;750000.00;05/04/2025;20/04/2025
-3;Summer Clash 2025;Valorant;Seoul;500000.00;01/06/2025;15/06/2025
-4;Champions Invitational;Valorant;Tokyo;1500000.00;10/08/2025;30/08/2025
-5;European Masters;CS2;Paris;400000.00;05/09/2025;18/09/2025
-6;World Gaming Finals;Valorant;Shanghai;2000000.00;01/11/2025;20/11/2025
+tournament_id,title,game_title,location,prize_pool,start_date,end_date
+1,Global Masters 2025,Valorant,Los Angeles,1000000.00,10/02/2025,25/02/2025
+2,World Esports Cup 2025,CS2,Berlin,750000.00,05/04/2025,20/04/2025
+3,Summer Clash 2025,Valorant,Seoul,500000.00,01/06/2025,15/06/2025
+4,Champions Invitational,Valorant,Tokyo,1500000.00,10/08/2025,30/08/2025
+5,European Masters,CS2,Paris,400000.00,05/09/2025,18/09/2025
+6,World Gaming Finals,Valorant,Shanghai,2000000.00,01/11/2025,20/11/2025
